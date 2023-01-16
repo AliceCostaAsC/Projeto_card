@@ -1,0 +1,17 @@
+.home{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    grid-column-gap: 30px;
+    margin-top: 10%;
+}
+
+img{
+    width: 180px;
+    height: 180px;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+
